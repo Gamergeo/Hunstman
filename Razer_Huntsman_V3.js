@@ -362,7 +362,7 @@ export class RazerProtocol {
 			/** Variable that holds current device's LED vKeys. */
 			DeviceLedIndexes : [],
 			/** Variable that holds the current device's Product ID. */
-			DeviceProductId : 0x00,
+			DeviceProductId : 0x02a6,
 			/** Dict for button inputs to map them with names and things. */
 			inputDict : {},
 
