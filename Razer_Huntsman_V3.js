@@ -1,7 +1,7 @@
 export function Name() { return "Razer Device Information Extractor"; }
 export function VendorId() { return 0x1532; }
 export function Documentation() { return "troubleshooting/razer"; }
-export function ProductId() { return 0x2e2c; } //Add a PID as needed.
+export function ProductId() { return 0x02a6; } //Add a PID as needed.
 export function Publisher() { return "WhirlwindFX"; }
 export function Size() { return [3, 3]; }
 export function Type() { return "Hid"; }
