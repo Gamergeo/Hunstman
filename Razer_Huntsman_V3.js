@@ -1641,7 +1641,7 @@ class BinaryUtils {
 }
 
 export function Validate(endpoint) {
-	return endpoint.interface === 0 || endpoint.interface === 1 || endpoint.interface === 2 || endpoint.interface === 3 || endpoint.interface === 4;
+	return true;
 }
 
 export function ImageUrl() {
