@@ -108,7 +108,7 @@ function CalculateCrc(report) {
 
 function SendColors(shutdown = false) {
 
-	const RGBData = new Array(586).fill(0);
+	const RGBData = new Array(390).fill(0);
 	let TotalLedCount = 0;
 
 	for(let iIdx = 0; iIdx < vKeymap.length; iIdx++) {
