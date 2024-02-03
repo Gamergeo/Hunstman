@@ -33,7 +33,7 @@ const RowDict = {
 	1: 22,
 };
 const vLedPositions = [
-	[15, 2], [16, 2], [17, 2],
+	[1, 1], [1, 2], [1, 3],
 ];
 
 function hexToRgb(hex) {
