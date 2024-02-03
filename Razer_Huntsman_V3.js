@@ -30,6 +30,7 @@ const vKeymap = [
 ];
 const RowDict = {
 	0: 22,
+	1: 22,
 };
 const vLedPositions = [
 	[15, 2], [16, 2], [17, 2],
